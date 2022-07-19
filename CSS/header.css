@@ -1,0 +1,26 @@
+header {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 35px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.menu a {
+  color: rgb(255, 255, 255);
+}
+
+.menu ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.menu a {
+  padding: 10px;
+  font-size: 1.125em;
+}
+.menu a:hover {
+  color: #e21;
+}
+.menu-logo {
+  width: 50px;
+}

@@ -1,0 +1,27 @@
+section {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+section img {
+  max-width: 250px;
+  display: block;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.section-conteudo {
+  display: inline-block;
+  align-self: center;
+}
+.section-conteudo p {
+  text-align: right;
+}
+.section-conteudo h1 {
+  margin-bottom: 20px;
+}
+.bulbar {
+  max-width: 250px;
+}
